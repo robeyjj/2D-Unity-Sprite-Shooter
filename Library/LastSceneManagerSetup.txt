@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/NightTime_DemoScene.unity
+  isLoaded: 1
+  isActive: 1
